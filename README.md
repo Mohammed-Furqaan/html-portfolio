@@ -77,11 +77,7 @@ Open the project:
 Double-click index.html
 OR
 Open it in your browser
-📸 Screenshots
 
-📌 Add screenshots here (important for recruiters)
-
-![Portfolio](./assets/screenshot.png)
 🚀 Use Cases
 Personal portfolio for students
 Beginner web development project
